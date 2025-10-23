@@ -28,9 +28,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 #### - Bootcamps e Certificações:
-[<img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="50"></a>]([URL do bootcamp que realizou](https://web.dio.me/track/avanade-back-end-com-net-e-ia)
-[<img src="https://assets.dio.me/BiguwjnBtEVUNQ3wnjFH4FVjAN9Tlm6gfGOqfUIz-t4/f:webp/h:120/q:80/L3RyYWNrcy9mYTFlNGRlNS1jMTcyLTQ4M2EtODAyZS1hOTJhMDI3MmQ2MTAucG5n" height="50"></a>]([URL do bootcamp que realizou](https://web.dio.me/track/microsoft-az-104-certification)
-[<img src="https://assets.dio.me/C_w739DMTY1XPvnkcaSY7doWFM9I5MREIuft-gfwJDY/f:webp/h:120/q:80/L3RyYWNrcy83MGI2Y2EwOC0xZDdlLTQxNTctYmI0OC05NmMxMTY0ZmQ3ZTcucG5n" height="50"></a>]([URL do bootcamp que realizou](https://web.dio.me/track/4f411d51-fbae-475b-91e4-560f2fcc1137)
+[<img src="https://assets.dio.me/fmurnmImYsLpbR26s6Rsrxi82t-6iYqTlwkJGBzm0mI/f:webp/h:120/q:80/L3RyYWNrcy8yMzk0ODU4NS1iZTdmLTRlZjctODQxNi1iOGUwYWFhYWYyZjcucG5n" height="50"></a>](https://web.dio.me/track/avanade-back-end-com-net-e-ia)
+[<img src="https://assets.dio.me/BiguwjnBtEVUNQ3wnjFH4FVjAN9Tlm6gfGOqfUIz-t4/f:webp/h:120/q:80/L3RyYWNrcy9mYTFlNGRlNS1jMTcyLTQ4M2EtODAyZS1hOTJhMDI3MmQ2MTAucG5n" height="50"></a>](https://web.dio.me/track/microsoft-az-104-certification)
+[<img src="https://assets.dio.me/C_w739DMTY1XPvnkcaSY7doWFM9I5MREIuft-gfwJDY/f:webp/h:120/q:80/L3RyYWNrcy83MGI2Y2EwOC0xZDdlLTQxNTctYmI0OC05NmMxMTY0ZmQ3ZTcucG5n" height="50"></a>](https://web.dio.me/track/4f411d51-fbae-475b-91e4-560f2fcc1137)
 
 #### - Cursos:
 [<img src="https://assets.dio.me/PAYwYmyucbUHoXuYiI3FepF6tEoWQLxrhebrLHOrAOo/f:webp/q:80/w:36/L2NvdXJzZXMvYmFkZ2UvOTJiMTRlYWQtZThiNC00ZWNhLWFiMDgtNjgwMGM4MjQyNDY5LnBuZw" height="50"></a>](https://web.dio.me/course/introducao-a-banco-de-dados-relacionais-sql/learning/fdd8de7d-083d-4f9e-a98a-abeb7c14fed9/)
