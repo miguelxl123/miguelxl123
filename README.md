@@ -1,8 +1,8 @@
 ## José Miguel - miguelxl123
 ----------------------------------------------------------------------------------------------
 
-- Estudante e Futuro Desenvolvedor de software Backend. Apaixondo por tecnologias e gosto de aprender coisas novas.
-- Estou cursando atualmente o curso de Análise e Desenvolvimento de Sistemas, além de possuir cursos técnico na área.
+- Estudante e Futuro Desenvolvedor de software Backend. Apaixondo por tecnologias e com vontade de sempre aprender coisas novas.
+- Estou cursando atualmente Análise e Desenvolvimento de Sistemas, além de possuir curso técnico na área.
 - Comecei na programação através do meu curso técnico com HTML, CSS e JavaScript.
 - Comecei minha carreira na área de infraestrutura de rede onde apesar de ser uma boa área, me vejo e desejo ser um desenvolvedor.
   Estudando e pesquisando sobre tecnologias busco me aperfeiçoar e desenvolver cada vez mais no desenvolvimento com ênfase em C#, .NET, Python, Java.
