@@ -5,6 +5,7 @@
 - Estou cursando atualmente Análise e Desenvolvimento de Sistemas, além de possuir curso técnico na área.
 - Comecei na programação através do meu curso técnico com HTML, CSS e JavaScript.
 - Comecei minha carreira na área de infraestrutura de rede onde apesar de ser uma boa área, me vejo e desejo ser um desenvolvedor, cientista, um pesquisador.
+
   Estudando e pesquisando sobre tecnologias busco me aperfeiçoar e desenvolver cada vez mais no desenvolvimento com ênfase em C#, .NET, Python e Java.
 
 ##  Tecnologias que estudo na minha jornada dev:
